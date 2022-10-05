@@ -28,7 +28,7 @@ SECRET_KEY = 'django-insecure-#i(vi5b*1o8!62m!l6^!!+hx3(_8&57ajk$2oin$np3o#*l51_
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['hyrum.pythonanywhere.com',]
+ALLOWED_HOSTS = ['hyrum.pythonanywhere.com']
 
 
 # Application definition
